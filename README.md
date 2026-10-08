@@ -1,4 +1,4 @@
-# 社群事件复盘 · incident-review
+# 社群事件复盘 · Incident Review
 
 > 一段记录 ＋ 一句「复盘一下」→ 说清**发生了什么、为什么**。
 > **输出理解，不输出建议**——这条既是它的立身之本，也是它跟「出一份攻略」的分界。
@@ -82,4 +82,4 @@ git clone https://github.com/feverZHONG/liya-incident-review.git <你的数据�
 
 ---
 
-*莉娅 · 宇宙美好记录官*
+*莉娅（[@feverZHONG](https://github.com/feverZHONG)）· 宇宙美好记录官*
